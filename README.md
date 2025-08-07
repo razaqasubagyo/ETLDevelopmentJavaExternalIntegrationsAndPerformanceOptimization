@@ -27,51 +27,51 @@ Talend Open Studio, Java Components, External Libraries & Components Integration
 <h2>Documentation:</h2>
 
 <p align="center">
-tJava - Job Designer Workflow & Code <br/>
+1.1 tJava - Job Designer Workflow & Code <br/>
 <img src="https://github.com/user-attachments/assets/71698659-2f56-4a32-8b1d-4ea4511f56f6" height="80%" width="80%" alt="Schema Handling"/>
 <br />
 <br />
-tJavaRow - Job Designer Workflow & Code  <br/>
+1.2 tJavaRow - Job Designer Workflow & Code  <br/>
 <img src="https://github.com/user-attachments/assets/67f06533-54b9-474f-90f3-0bdb58901da4" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-tJavaFlex - Job Designer Workflow <br/>
+1.3 tJavaFlex - Job Designer Workflow <br/>
 <img src="https://github.com/user-attachments/assets/45538be4-534d-44c4-92d2-16b94bc5690e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-tJavaFlex - Code  <br/>
+1.4 tJavaFlex - Code  <br/>
 <img src="https://github.com/user-attachments/assets/6218c44e-ff1a-43d9-85da-ad3a8078fe53" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-External Libraries - Job Designer Workflow  <br/>
+2.1 External Libraries - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/fae9f7be-bf02-49a5-bbc6-163745d5710a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-External Libraries - tMap Mapping Configuration  <br/>
+2.2 External Libraries - tMap Mapping Configuration  <br/>
 <img src="https://github.com/user-attachments/assets/1e9a8c06-69aa-4484-9dfe-e9134d1d4968" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-External Components - Job Designer Workflow  <br/>
+3.1 External Components - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/651a5c55-0f46-4ef5-8a94-758c0365a175" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-External Components - Importing & Configuration  <br/>
+3.2 External Components - Importing & Configuration  <br/>
 <img src="https://github.com/user-attachments/assets/d8426523-a17b-40e8-8506-769ac5578a07" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Hash Components - Job Designer Workflow  <br/>
+4.1 Hash Components - Job Designer Workflow  <br/>
 <img src="https://github.com/user-attachments/assets/db92f734-2fd3-4f73-9fcd-140fe8b7a306" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Hash Components - Data Output Results  <br/>
+4.2 Hash Components - Data Output Results  <br/>
 <img src="https://github.com/user-attachments/assets/e8a6160c-c1b6-46ba-9e9f-f57f4829fe36" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-JVM Parameters - Job Designer Workflow & Settings <br/>
+5.1 JVM Parameters - Job Designer Workflow & Settings <br/>
 <img src="https://github.com/user-attachments/assets/05c2a8c0-7ac2-454e-996d-72eda75eb41e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Parallel Execution - Job Designer Workflow & Settings  <br/>
+6.1 Parallel Execution - Job Designer Workflow & Settings  <br/>
 <img src="https://github.com/user-attachments/assets/8a18ce74-ba84-43ba-aba7-1a9a41262e85" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
